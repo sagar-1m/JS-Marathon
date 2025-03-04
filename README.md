@@ -79,17 +79,16 @@ The repository is structured into files in order from basic to advanced concepts
 
 ## 🙏 Acknowledgements
 
-I would like to thank Hitesh Choudhary and Piyush Garg for their guidance and support throughout this learning journey. I would also like to thank the community for their support and encouragement.
+I would like to thank [Hitesh Choudhary](https://x.com/Hiteshdotcom) and [Piyush Garg](https://x.com/piyushgarg_dev) for their guidance and support throughout this learning journey. I would also like to thank the community for their support and encouragement.
 
 ## 📞 Connect With Me
 
 You can connect with me on the following platforms:
 
 <div align="center">
-  <a href="https://twitter.com/developer_dan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://www.linkedin.com/in/daniel-thomas-7b0b3b1b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  
-  
+  <a href="https://x.com/maheshwarisaga4"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/sagar-maheshwari-1m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sagar-1m"><img src="https://img.shields.io-badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ---
