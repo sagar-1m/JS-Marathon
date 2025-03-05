@@ -56,6 +56,8 @@ The repository is structured into files in order from basic to advanced concepts
 - `15_BehindTheScenes.js` - How JavaScript works under the hood with Call Stack and Event Loop
 - `16_StarvationInJS.js` - Understanding Callback Queue, Microtask Queue and execution priority
 - `17_Hoisting.js` - Variable and function hoisting behavior in JavaScript
+- `18_Proxy.js` - Using Proxy objects to intercept and customize operations on objects
+- `19_Promises.js` - Understanding asynchronous operations and Promise objects in JavaScript
 
 ### Coming Soon
 
@@ -97,7 +99,7 @@ I would like to thank [Hitesh Choudhary](https://x.com/Hiteshdotcom) and [Piyush
 - [x] Functions
 - [x] Iterations
 - [x] Advanced JavaScript Concepts
-- [ ] Asynchronous JavaScript
+- [x] Asynchronous JavaScript
 - [ ] DOM Manipulation
 - [ ] Projects Implementation
 
@@ -116,3 +118,4 @@ You can connect with me on the following platforms:
 <div align="center">
   <p>Happy coding! 💻</p>
 </div>
+```
