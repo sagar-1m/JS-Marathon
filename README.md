@@ -46,13 +46,22 @@ The repository is structured into files in order from basic to advanced concepts
 
 - `09_Functions.js` - Introduction to functions in JavaScript, function types and function expressions with examples
 - `10_Iterations.js` - Iteration in JavaScript using loops and array methods like `forEach`, `map`, `filter`, `reduce`
+- `11_Reduce().js` - Deep dive into the reduce() method with practical examples and expense tracking applications
+
+### Advanced JavaScript Concepts
+
+- `12_IIFE.js` - Immediately Invoked Function Expressions and their applications
+- `13_This.js` - Understanding the 'this' keyword and its context in JavaScript
+- `14_Call(),Bind(),Apply().js` - Methods for controlling function context and execution
+- `15_BehindTheScenes.js` - How JavaScript works under the hood with Call Stack and Event Loop
+- `16_StarvationInJS.js` - Understanding Callback Queue, Microtask Queue and execution priority
+- `17_Hoisting.js` - Variable and function hoisting behavior in JavaScript
 
 ### Coming Soon
 
-- Asynchronous JavaScript
 - DOM Manipulation
 - Project implementations
-- Advanced concepts
+- More advanced concepts
 
 ## 💻 Technologies Used
 
@@ -80,6 +89,17 @@ The repository is structured into files in order from basic to advanced concepts
 ## 🙏 Acknowledgements
 
 I would like to thank [Hitesh Choudhary](https://x.com/Hiteshdotcom) and [Piyush Garg](https://x.com/piyushgarg_dev) for their guidance and support throughout this learning journey. I would also like to thank the community for their support and encouragement.
+
+## 📈 Progress Tracker
+
+- [x] JavaScript Fundamentals
+- [x] Arrays & Objects
+- [x] Functions
+- [x] Iterations
+- [x] Advanced JavaScript Concepts
+- [ ] Asynchronous JavaScript
+- [ ] DOM Manipulation
+- [ ] Projects Implementation
 
 ## 📞 Connect With Me
 
