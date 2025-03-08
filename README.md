@@ -70,6 +70,13 @@ The repository is structured into files in order from basic to advanced concepts
 - `26_Polyfill.js` - Creating polyfills for native JavaScript methods
 - `27_PromisePolyfill.js` - Building a custom Promise implementation from scratch
 
+### Advanced JavaScript Concepts (Continued)
+
+- `28_FirstClassFunction.js` - Understanding functions as first-class citizens in JavaScript
+- `29_ArgumentObject.js` - Working with the arguments object in JavaScript functions
+- `30_Debouncing.js` - Implementing debouncing pattern to optimize event handling
+- `31_Throttling.js` - Using throttling to control the execution rate of functions
+
 ### Coming Soon
 
 - DOM Manipulation
@@ -115,6 +122,10 @@ I would like to thank [Hitesh Choudhary](https://x.com/Hiteshdotcom) and [Piyush
   - [x] Promises
   - [x] Async/Await
   - [x] Custom Implementations
+- [x] Performance Optimization
+  - [x] Debouncing
+  - [x] Throttling
+  - [x] Custom Polyfills
 - [ ] DOM Manipulation
 - [ ] Projects Implementation
 
@@ -133,3 +144,4 @@ You can connect with me on the following platforms:
 <div align="center">
   <p>Happy coding! 💻</p>
 </div>
+````
