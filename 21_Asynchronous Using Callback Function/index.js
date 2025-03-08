@@ -1,3 +1,7 @@
+// Asynchronous Programming using Callback Function
+// Asynchronous programming is a programming paradigm that allows the code to run without blocking the execution of the code, means it does not wait for the operation to complete before moving to the next line of code as it uses callback functions to handle the results of asynchronous operations.
+// Asynchronous programming is used to handle I/O operations, such as reading files, making network requests, and interacting with databases.
+
 const fs = require("fs");
 
 console.log("Start");

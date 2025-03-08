@@ -1,5 +1,5 @@
 // Synchronous Method
-// The synchronous method blocks the execution of the code until the operation is completed.
+// The synchronous method blocks the execution of the code until the operation is completed, means it waits for the operation to complete before moving to the next line of code.
 
 const fs = require("fs");
 

@@ -1,4 +1,5 @@
 // Node fs module of fs/promises
+// fs/promises module is a built-in module in Node.js that provides promise-based versions of the fs module methods.
 
 console.log("Start");
 
