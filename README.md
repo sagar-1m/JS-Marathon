@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io-badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
 
@@ -59,6 +59,17 @@ The repository is structured into files in order from basic to advanced concepts
 - `18_Proxy.js` - Using Proxy objects to intercept and customize operations on objects
 - `19_Promises.js` - Understanding asynchronous operations and Promise objects in JavaScript
 
+### Asynchronous JavaScript
+
+- `20_Synchronous Method` - Understanding synchronous execution in JavaScript
+- `21_Asynchronous Using Callback Function` - Introduction to asynchronous programming using callbacks
+- `22_CallbackHell` - The problem with nested callbacks and callback hell
+- `23_promiseModuleOfFs` - Using the Node.js fs/promises module for file operations
+- `24_Custom Promise` - Creating and working with custom Promise implementations
+- `25_AsyncAwait` - Modern asynchronous programming with async/await syntax
+- `26_Polyfill.js` - Creating polyfills for native JavaScript methods
+- `27_PromisePolyfill.js` - Building a custom Promise implementation from scratch
+
 ### Coming Soon
 
 - DOM Manipulation
@@ -100,6 +111,10 @@ I would like to thank [Hitesh Choudhary](https://x.com/Hiteshdotcom) and [Piyush
 - [x] Iterations
 - [x] Advanced JavaScript Concepts
 - [x] Asynchronous JavaScript
+  - [x] Callbacks
+  - [x] Promises
+  - [x] Async/Await
+  - [x] Custom Implementations
 - [ ] DOM Manipulation
 - [ ] Projects Implementation
 
@@ -118,4 +133,3 @@ You can connect with me on the following platforms:
 <div align="center">
   <p>Happy coding! 💻</p>
 </div>
-```
