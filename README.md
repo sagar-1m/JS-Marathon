@@ -1,12 +1,13 @@
-# JavaScript Marathon - Learning Journey 🚀
+# JavaScript Marathon - Learning Journey 🚀 [COMPLETED]
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge" alt="Completed">
 </div>
 
-Welcome to my JavaScript Marathon repository! This repo documents my learning journey through a web development cohort with instructors Hitesh Choudhary and Piyush Garg.
+Welcome to my JavaScript Marathon repository! This repo documents my completed learning journey through a web development cohort with instructors Hitesh Choudhary and Piyush Garg.
 
 ## 📋 Table of Contents
 
@@ -76,6 +77,8 @@ The repository is structured into files in order from basic to advanced concepts
 - `29_ArgumentObject.js` - Working with the arguments object in JavaScript functions
 - `30_Debouncing.js` - Implementing debouncing pattern to optimize event handling
 - `31_Throttling.js` - Using throttling to control the execution rate of functions
+- `32_lexicalScoping.js` - Understanding lexical scope and variable accessibility in nested functions
+- `33_Closures.js` - Exploring closures and their practical applications in JavaScript
 
 ### Coming Soon
 
@@ -126,8 +129,20 @@ I would like to thank [Hitesh Choudhary](https://x.com/Hiteshdotcom) and [Piyush
   - [x] Debouncing
   - [x] Throttling
   - [x] Custom Polyfills
-- [ ] DOM Manipulation
-- [ ] Projects Implementation
+- [x] Lexical Scoping
+- [x] Closures
+
+## 🏁 Journey Conclusion
+
+After completing this JavaScript marathon, I've gained comprehensive knowledge of JavaScript from basic concepts to advanced programming patterns. The journey has equipped me with strong foundations in:
+
+- Core JavaScript concepts and syntax
+- Asynchronous programming techniques
+- Advanced function concepts and closures
+- Performance optimization strategies
+- Problem-solving using JavaScript
+
+This repository serves as both documentation of my progress and a reference for future projects. The concepts learned here form the foundation for my continued growth as a developer.
 
 ## 📞 Connect With Me
 
@@ -142,6 +157,5 @@ You can connect with me on the following platforms:
 ---
 
 <div align="center">
-  <p>Happy coding! 💻</p>
+  <p>Marathon Completed Successfully! 🏆</p>
 </div>
-````
